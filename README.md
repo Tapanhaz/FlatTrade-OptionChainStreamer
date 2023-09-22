@@ -5,6 +5,8 @@ A simple program to stream option chain of flattrade using pyqt5
 
 ***This is only for streaming data. Not for trading***
 
+***Don't click on logout if you want to use same token for the rest of the day. Close the gui directly.***
+
 The code is in prerelease state as all things are not tested in live market. So maybe some errors are there.
 
 Use
