@@ -15,7 +15,7 @@ from flattrade import check_session_token
 
 import logging
 
-logging.basicConfig(level=logging.DEBUG)
+#logging.basicConfig(level=logging.DEBUG)
 
 Ui_MainWindow, QtBaseClass = uic.loadUiType("MyUi.ui")
 
