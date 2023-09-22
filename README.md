@@ -39,3 +39,4 @@ Can run directly
 python OptionChainStreamer.py
 ```
 ***For sample please see https://github.com/Tapanhaz/Shoonya_OptionChainStreamer***
+***For symbolsearch documentation please refer to https://github.com/Tapanhaz/Flattrade-SymbolSearch***
