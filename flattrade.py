@@ -24,7 +24,6 @@ routes = {
 
 headers = {
     "Accept": "application/json",
-    "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "en-US,en;q=0.5",
     "Host": "authapi.flattrade.in",
     "Origin": f"{HOST}",
