@@ -2,7 +2,7 @@
 
 REM Activate the virtual environment
 REM Replace this path with your Python 3.11 virtual environment and run
-call D:\FnO\v311\Scripts\activate.bat
+call D:\v311\Scripts\activate.bat
 
 REM Run the Python script
 python  OptionChainStreamer.py
